@@ -1,6 +1,3 @@
-# English-Premier-League-Match-Prediction-Analysis
-Predicting EPL Match Outcomes using Machine Learning
-
 # English Premier League Match Prediction Analysis ⚽
 
 Proyek ini bertujuan untuk memprediksi hasil pertandingan English Premier League (EPL) menggunakan teknik machine learning. Analisis dilakukan berdasarkan data historis pertandingan dan fitur-fitur seperti tim, skor, dan statistik lainnya.
