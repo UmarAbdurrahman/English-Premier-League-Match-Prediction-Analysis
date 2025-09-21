@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk memprediksi hasil pertandingan English Premier League
 ## 📊 Metodologi
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Model Training (Random Forest, Logistic Regression, dll.)
+- Model Training (Logistic Regression, & Multinomial Logisitic Regression.)
 - Evaluasi Model
 
 ## 📈 Hasil Utama
