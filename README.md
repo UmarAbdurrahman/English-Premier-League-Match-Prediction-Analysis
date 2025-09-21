@@ -1,5 +1,3 @@
-Mantap 👍 Kalau begitu saya buatkan **README GitHub versi lengkap** dengan tambahan struktur folder + instruksi penggunaan.
-
 ---
 
 # ⚽ English Premier League Match Prediction Analysis
